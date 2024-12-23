@@ -1,0 +1,25 @@
+Clean – limpar 
+Git statusPasta de repositório  -  Abri na pasta o Git Bash here
+Git status
+Transforma pasta em repositório
+Git init
+Untracked files – rastrear arquivos para verificara alterações
+Git add .
+Commit  – confirmar o salvamento
+Gti committ -a -m “ Primeiro committ”
+git config --global user.email you@example.com
+
+git config --global user.email j.arimateia.filho@gmail.com
+
+git config --global user.name "Your Name"
+
+git config --global user.name "Arimateia"
+
+toda vez que entra numa máquina diferente
+
+code  copia e entrar em outra maquna
+
+git clone Botão direto do mouse.  – para baixar todo o repositório do git hub
+git pull origin master – baixar arquivos criados em outro pc
+
+
